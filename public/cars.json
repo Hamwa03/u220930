@@ -3,20 +3,17 @@
     {
         "Brand": "Volvo",
         "model": "V90",
-        "year": "2019",
-        "inStock": true
+        "year": "2019"
     },
     {
         "Brand": "Volvo",
         "model": "XC40",
-        "year": "2021",
-        "inStock": true
+        "year": "2021"
     },
     {
         "Brand": "Volvo",
         "model": "XC90",
-        "year": "2022",
-        "inStock": true
+        "year": "2022"
     }
    ]
 }
