@@ -1,17 +1,17 @@
 {
    "cars" : [
     {
-        "Brand": "Volvo",
+        "brand": "Volvo",
         "model": "V90",
         "year": "2019"
     },
     {
-        "Brand": "Volvo",
+        "brand": "Volvo",
         "model": "XC40",
         "year": "2021"
     },
     {
-        "Brand": "Volvo",
+        "brand": "Volvo",
         "model": "XC90",
         "year": "2022"
     }

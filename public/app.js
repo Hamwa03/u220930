@@ -29,3 +29,18 @@ structure.onload = () => {
     }
 
 }
+
+ShowcaseList = () => {
+
+    var ulList = document.getElementById('carList');
+    ulList.innerHTML = '';
+
+    var carInfo = JSON.parse(cars.responseText);
+
+    carInfo.cars.forEach(cars => {
+        var newList = document.createElement('li');
+        newList.innerHTML = (`${cars.brand} ${cars.model} ${cars.year}`);
+        ulList.appendChild(newList);
+    });
+
+}
